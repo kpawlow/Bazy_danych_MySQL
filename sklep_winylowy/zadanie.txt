@@ -1,0 +1,1 @@
+Proszę zaimportować bazę sklep_winylowy.sql
